@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 2 root root   335 Sep  4 15:02 .
+drwxr-xr-x 6 root root   121 Sep  4 12:57 ..
+-rwxr--r-- 1 root root    32 Sep  4 13:00 0-hello_world
+-rwxr--r-- 1 root root    28 Sep  4 13:18 1-confused_smiley
+-rwxr--r-- 1 root root    28 Sep  4 13:20 2-hellofile
+-rwxr--r-- 1 root root    39 Sep  4 13:25 3-twofiles
+-rwxr--r-- 1 root root    35 Sep  4 13:29 4-lastlines
+-rwxr--r-- 1 root root    35 Sep  4 13:32 5-firstlines
+-rwxr--r-- 1 root root    38 Sep  4 13:45 6-third_line
+-rwxr--r-- 1 root root    84 Sep  4 14:44 7-file
+-rwxr--r-- 1 root root    36 Sep  4 15:02 8-cwd_state
+-rw-r--r-- 1 root root 12484 Sep  4 13:39 army in defiance of the Senate and began
+-rw-r--r-- 1 root root    12 Sep  4 14:45 \*\"Best School"\'\*\$\?\*\*\*\*\*:\)
+-rw-r--r-- 1 root root   801 Sep  4 13:41 iacta
+-rw-r--r-- 1 root root     0 Sep  4 15:03 ls_cwd_content
+-rw-r--r-- 1 root root    31 Sep  4 13:02 README.md
+-rw-r--r-- 1 root root     0 Sep  4 13:39 t
